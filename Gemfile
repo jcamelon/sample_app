@@ -8,6 +8,7 @@ gem 'rails', '3.2.13'
 group :development do
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'capybara'
 end
 
 
@@ -24,8 +25,6 @@ group :assets do
 end
 
 gem 'jquery-rails'
-
-gem 'capybara'
 
 group :production do
   gem 'pg'
