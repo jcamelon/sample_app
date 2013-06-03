@@ -25,9 +25,7 @@ end
 
 gem 'jquery-rails'
 
-group :test do
-  gem 'capybara'
-end
+gem 'capybara'
 
 group :production do
   gem 'pg'
