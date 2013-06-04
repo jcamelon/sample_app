@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0081bd-6acc-4310-84e7-ce3dac4b7732" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
@@ -19,7 +10,7 @@
     <ignored path=".idea/" />
     <ignored mask=".idea*" />
     <file path="/Gemfile" changelist="1d0081bd-6acc-4310-84e7-ce3dac4b7732" time="1370309860629" ignored="false" />
-    <file path="/Dummy.txt" changelist="1d0081bd-6acc-4310-84e7-ce3dac4b7732" time="1370308854846" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d0081bd-6acc-4310-84e7-ce3dac4b7732" time="1370312185388" ignored="false" />
     <file path="/hello.html" changelist="1d0081bd-6acc-4310-84e7-ce3dac4b7732" time="1370262810529" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="1d0081bd-6acc-4310-84e7-ce3dac4b7732" time="1370308687684" ignored="false" />
     <file path="/home.html.erb" changelist="1d0081bd-6acc-4310-84e7-ce3dac4b7732" time="1370310262440" ignored="false" />
@@ -783,7 +774,11 @@
       <created>1370308857669</created>
       <updated>1370308857669</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Boostrapped!">
+      <created>1370312188315</created>
+      <updated>1370312188315</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -853,7 +848,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add default title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Boostrapped!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -873,6 +868,7 @@
     <MESSAGE value="Fix gemfile&#10;" />
     <MESSAGE value="Add commit" />
     <MESSAGE value="Add default title" />
+    <MESSAGE value="Boostrapped!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
