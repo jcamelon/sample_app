@@ -9,7 +9,7 @@ describe "StaticPages" do
 
     it "should have the right title" do
       visit '/static_pages/home'
-      page.should have_title("ROR Menu | Home")
+      page.should have_title("ROR Sample App")
     end
   end
 
@@ -34,6 +34,6 @@ describe "StaticPages" do
     end
     it "should have the title 'Contact'" do
       visit '/static_pages/contact'
-      page.should have_title("ROR Menu | Contact")
+      page.should have_title("ROR Sample App | Contact")
     end
   end
